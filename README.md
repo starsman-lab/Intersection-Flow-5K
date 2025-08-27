@@ -91,8 +91,8 @@ Located in the `labels/` directory. Each image has a corresponding `.txt` file w
 *   **Format**: `<class_id> <x_center> <y_center> <width> <height>` (all values are normalized to `[0, 1]`).
 *   **Example** (`image_001.txt` for a `1920x1080` image):
     ```txt
-    0 0.5416 0.6111 0.1041 0.1851  # A 'car' object
-    2 0.2343 0.7870 0.1562 0.2222  # A 'truck' object
+    0 0.5416 0.6111 0.1041 0.1851  # A 'vehicle' object
+    5 0.2343 0.7870 0.1562 0.2222  # A 'truck' object
     ```
 
 ### **4.2 PASCAL VOC Format (`.xml`)**
@@ -109,7 +109,7 @@ Located in the `annotations/` directory. Each image has a corresponding `.xml` f
             <height>1080</height>
         </size>
         <object>
-            <name>car</name>
+            <name>vehicle</name>
             <bndbox>
                 <xmin>940</xmin>
                 <ymin>560</ymin>
