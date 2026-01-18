@@ -1,13 +1,23 @@
 # **Intersection-Flow-5K: A High-Density Traffic Surveillance Dataset for Object Detection**
 
-[![Paper](https://img.shields.io/badge/Paper-arXiv:2508.19565-b31b1b.svg)](https://arxiv.org/abs/2508.19565) 
+[![Paper](https://img.shields.io/badge/Paper-arXiv:2508.19565
+        
+        
+        
+        
+        
+        
+        
+        -b31b1b.svg)](https://arxiv.org/abs/2508.19565
+        
+        ) 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 Welcome to the official repository for the **Intersection-Flow-5K** dataset, introduced in our paper:
 
 > **FlowDet: Overcoming Perspective and Scale Challenges in Real-Time End-to-End Traffic Detection**
 >
-> *Yuhang Zhao, Zixing Wang*
+> *Zixing Wang, Yuhang Zhao*
 >
 > *PRCV, 2025*
 
